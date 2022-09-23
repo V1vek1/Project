@@ -1,0 +1,7 @@
+open pycham
+
+click on python package which is show on left down side of screen
+
+and search the module which you want and install it 
+
+Done

@@ -1,0 +1,5 @@
+#Kivy ek framework h jo ki python ko apk bnane me help karta h
+#Kivy ki help se bnaya huaa app aap kahi bhi run kar sakte h like--> like linux,
+# windows,android,ios
+#per yeh hame bnate time hi define karna padta h ki hum kiske liye app ban rahe h
+#matlab ios ,android.......matlab kiske liye bna rahe h 

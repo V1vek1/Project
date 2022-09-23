@@ -1,0 +1,24 @@
+Step 1. First search python in your app section 
+
+Step 3. Then copy the path location of python
+
+Step 2. Then go to path location of python 
+
+Step 4. Then open CMD as a Administrator 
+
+Step 5. Type cd and paste your python path location address and press enter
+
+Step 6. run this command python -m pip install --upgrade pip
+
+Step 7. Create Scripts name's folder in python path location 
+
+Step 8. Copy the path location of Scripts Folder 
+
+Step 9. And type in CMD cd And File location of Scripts then enter
+
+matlab kisi tarike se Scripts folder ki location per jao tab hi install karo libraries
+(btw it is note important step but if you use it, it is best)
+
+Step 10. run this command cd Scripts
+
+step 11. run this command pip install YOUR_LIBRARY_NAME press enter
